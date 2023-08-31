@@ -1,14 +1,14 @@
 # Analysis Report on Violence Against Women Dataset
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Data Dictionary](#data-dictionary)
-3. [Data Cleaning](#data-cleaning)
-4. [Data Exploration](#data-exploration)
-5. [Visualizations](#visualizations)
-6. [Analysis Based on Specific Inquiries](#analysis-based-on-specific-inquiries)
-7. Recommendations
-8. [Conclusion](#conclusion)
+1. [Introduction](##introduction)
+2. [Data Dictionary](##data-dictionary)
+3. [Data Cleaning](##data-cleaning)
+4. [Data Exploration](##data-exploration)
+5. [Visualizations](##visualizations)
+6. [Analysis Based on Specific Inquiries](##analysis-based-on-specific-inquiries)
+7. [Recommendations](##recommendations)
+8. [Conclusion](##conclusion)
 
 ## 1. Introduction:
 Violence against women remains a significant concern globally. The dataset analyzed in this report was sourced from Kaggle and provides insights into the prevalence of violence against women across various countries and for different specific reasons. Through comprehensive analysis, this report aims to highlight patterns, trends, and significant findings related to this pressing issue.
